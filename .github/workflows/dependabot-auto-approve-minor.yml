@@ -11,17 +11,11 @@ jobs:
     strategy:
       matrix:
         dependencyStartsWith:
-          - '@sentry/'
-          - pg
-          - debug
-          - ethers
           - typescript
-          - postgrator
           - '@types/'
-          - standard
+          - neostandard
           - prettier
-          - '@sinclair/typebox'
-          - multiformats
+          - eslint
     steps:
       - name: Dependabot metadata
         id: metadata
