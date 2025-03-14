@@ -1,0 +1,19 @@
+{
+  "name": "tiny-json-rpc",
+  "version": "1.0.0",
+  "description": "A tiny JSON RPC client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheckerNetwork/tiny-json-rpc.git"
+  },
+  "author": "",
+  "license": "(Apache-2.0 AND MIT)",
+  "bugs": {
+    "url": "https://github.com/CheckerNetwork/tiny-json-rpc/issues"
+  },
+  "homepage": "https://github.com/CheckerNetwork/tiny-json-rpc#readme"
+}
