@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/CheckerNetwork/tiny-json-rpc#readme",
   "devDependencies": {
-    "@types/node": "^25.0.0",
+    "@types/node": "^25.0.1",
     "eslint": "^9.39.1",
     "neostandard": "^0.12.2",
     "prettier": "^3.7.4",
